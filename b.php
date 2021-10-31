@@ -1,4 +1,3 @@
-!DOCTYPE html>
 <html>
 <head>
 <title>Best Software for Avatar Builder</title>
